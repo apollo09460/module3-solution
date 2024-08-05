@@ -1,0 +1,20 @@
+#list{
+  
+    text-align: center;
+    background-color: beige;
+}
+#content{
+    text-align: center;
+
+
+}
+#box{
+    background-color: beige;
+    color: black;
+    margin: 100px;
+    min-height: 400px;
+    padding: 20px;
+}
+#Tall{
+    height: 3000px;
+}
